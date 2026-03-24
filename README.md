@@ -52,7 +52,7 @@ pip install -r requirements.txt
 ## 🧪 Training
 
 ```bash
-python train.py --dataset your_dataset --epochs 100 --lr 0.001
+python train.py --dataset dataset --epochs 100 --lr 0.001
 ```
 
 ---
