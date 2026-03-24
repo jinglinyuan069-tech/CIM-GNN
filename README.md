@@ -1,4 +1,3 @@
-````markdown
 # 🧠 CIM-GNN: Causality-Informed Multimodal Graph Neural Network
 
 > An interpretable graph neural network framework for brain network analysis and disease diagnosis with causal representation learning.
@@ -63,11 +62,4 @@ python train.py --dataset your_dataset --epochs 100 --lr 0.001
 python test.py --model_path checkpoints/model.pth
 ```
 
----
 
-## 📜 License
-
-MIT License
-
-```
-```
