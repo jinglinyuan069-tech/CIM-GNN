@@ -22,6 +22,7 @@
 
 ## 📂 Project Structure
 
+```
 CIM-GNN/
 ├── data/
 ├── models/
@@ -31,7 +32,7 @@ CIM-GNN/
 ├── config.py
 ├── requirements.txt
 └── README.md
-
+```
 ---
 
 ## ⚙️ Installation
